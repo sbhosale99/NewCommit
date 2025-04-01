@@ -6,6 +6,8 @@ public class NewAddede {
 		// TODO Auto-generated method stub
 System.out.println("Git Added to the branch");
 
+System.out.println("This from person A");
+
 	}
 
 }
