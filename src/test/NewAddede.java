@@ -22,4 +22,8 @@ System.out.println("This from person A");
 	{
 		System.out.println("Ye re baba3");
 	}
+	public void jUstforShow4()
+	{
+		System.out.println("Ye re baba4");
+	}
 }
